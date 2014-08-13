@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee id="3848">
+    <homeAddress>
+        <city>New York</city>
+        <street>3</street>
+    </homeAddress>
+    <name>Ramesh Kumar</name>
+    <weight>78.8</weight>
+    <my_words>
+        <words>Hello</words>
+        <words>Apple</words>
+        <words>Mango</words>
+    </my_words>
+</employee>
