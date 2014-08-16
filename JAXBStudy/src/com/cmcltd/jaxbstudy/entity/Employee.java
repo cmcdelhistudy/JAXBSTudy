@@ -18,6 +18,15 @@ public class Employee {
 	String info;
 	List<String> words = new ArrayList<String>();
 	Address homeAddress;
+	String jobClass = "";
+
+	public String getJobClass() {
+		return jobClass;
+	}
+
+	public void setJobClass(String jobClass) {
+		this.jobClass = jobClass;
+	}
 
 	public Address getHomeAddress() {
 		return homeAddress;
