@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<manager id="37848">
+    <homeAddress>
+        <city>New Jersy</city>
+        <street>6</street>
+    </homeAddress>
+    <jobClass>A</jobClass>
+    <name>Suresh Kumar</name>
+    <weight>108.8</weight>
+    <my_words>
+        <words>Vanilla</words>
+        <words>Rat</words>
+    </my_words>
+</manager>

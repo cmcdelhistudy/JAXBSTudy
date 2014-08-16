@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<staff id="98848">
+    <homeAddress>
+        <city>New York</city>
+        <street>3</street>
+    </homeAddress>
+    <jobClass>C</jobClass>
+    <name>Ramesh Kumar</name>
+    <weight>78.8</weight>
+    <my_words>
+        <words>Hello</words>
+        <words>Apple</words>
+        <words>Mango</words>
+    </my_words>
+    <workType>Cleaning</workType>
+</staff>

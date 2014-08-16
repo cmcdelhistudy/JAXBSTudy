@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<company>
+    <employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="staff" id="98848">
+        <homeAddress>
+            <city>New York</city>
+            <street>3</street>
+        </homeAddress>
+        <jobClass>C</jobClass>
+        <name>Ramesh Kumar</name>
+        <weight>78.8</weight>
+        <my_words>
+            <words>Hello</words>
+            <words>Apple</words>
+            <words>Mango</words>
+        </my_words>
+        <workType>Cleaning</workType>
+    </employees>
+    <employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="manager" id="37848">
+        <homeAddress>
+            <city>New Jersy</city>
+            <street>6</street>
+        </homeAddress>
+        <jobClass>A</jobClass>
+        <name>Suresh Kumar</name>
+        <weight>108.8</weight>
+        <my_words>
+            <words>Vanilla</words>
+            <words>Rat</words>
+        </my_words>
+    </employees>
+    <employees id="3848">
+        <homeAddress>
+            <city>New Delhi</city>
+            <street>3</street>
+        </homeAddress>
+        <jobClass></jobClass>
+        <name>Kuldeep Kumar</name>
+        <weight>98.8</weight>
+        <my_words>
+            <words>Cat</words>
+            <words>Rat</words>
+            <words>Mango</words>
+        </my_words>
+    </employees>
+</company>
